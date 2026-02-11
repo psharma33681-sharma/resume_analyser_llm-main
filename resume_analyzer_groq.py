@@ -15,7 +15,7 @@ prompt = ChatPromptTemplate.from_messages([
     ),
     (
         "human",
-        """
+        """ 
 Resume:
 {resume_text}
 
